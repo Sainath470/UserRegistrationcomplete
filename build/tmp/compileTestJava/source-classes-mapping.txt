@@ -1,0 +1,7 @@
+com/userRegistration/demo/junit5/Assertion.java
+ com.userRegistration.demo.junit5.Assertion
+com/userRegistration/demo/junit5/UserValidation.java
+ com.userRegistration.demo.junit5.UserValidation
+UserEmailParameterizedTest.java
+ UserEmailParameterizedTest
+ UserEmailParameterizedTest$EmailParameterisedTest

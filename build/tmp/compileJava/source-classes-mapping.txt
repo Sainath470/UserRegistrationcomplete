@@ -1,0 +1,4 @@
+com/userRegistration/demo/junit5/UserValidation.java
+ com.userRegistration.demo.junit5.UserValidation
+com/userRegistration/demo/junit5/UserRegistrationValidation.java
+ com.userRegistration.demo.junit5.UserRegistrationValidation

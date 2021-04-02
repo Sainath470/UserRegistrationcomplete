@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserEmailParameterizedTest$EmailParameterisedTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2021-04-02T19:08:34" hostname="AVS-1997" time="0.024">
+  <properties/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[0]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.006"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[1]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.001"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[2]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[3]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[4]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.001"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[5]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[6]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[7]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.001"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[8]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.001"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[9]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[10]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[11]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.001"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[12]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[13]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[14]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[15]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.002"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[16]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.001"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[17]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[18]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[19]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[20]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.0"/>
+  <testcase name="givenEmail_WhenObeysCondition_returnAsDesired[21]" classname="UserEmailParameterizedTest$EmailParameterisedTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
